@@ -4,4 +4,4 @@ This project helps to get answers about the Omeka-S developer docs without havin
 [Omeka-S Dev docs](https://omeka.org/s/docs/developer/)
 
 The RAG Agent Graph:
-![output.jpeg] (RAG Agent Graph Picture)
+![RAG Agent Graph Picture](output.jpeg)
